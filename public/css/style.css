@@ -1,0 +1,12 @@
+body {
+    background-color: #eceff1;
+}
+
+#lupa {
+    width: 40px;
+}
+
+.footer {
+    display: flex;
+    gap: .5rem;
+}
